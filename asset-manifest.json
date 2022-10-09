@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nikita/static/css/main.e7e53003.css",
+    "main.js": "/nikita/static/js/main.dc2c2120.js",
+    "static/js/787.32d91862.chunk.js": "/nikita/static/js/787.32d91862.chunk.js",
+    "static/media/girlgirl.gif": "/nikita/static/media/girlgirl.a50a087d3e8aad894f33.gif",
+    "static/media/fitness.jpeg": "/nikita/static/media/fitness.5d230533301eb23def51.jpeg",
+    "static/media/Portfolio.jpeg": "/nikita/static/media/Portfolio.40838c1a03c90643a1f1.jpeg",
+    "static/media/kwitter.jpeg": "/nikita/static/media/kwitter.79eb7a392c751d7b86b0.jpeg",
+    "static/media/vsa.jpeg": "/nikita/static/media/vsa.2936f2e580bb2968a1ac.jpeg",
+    "index.html": "/nikita/index.html",
+    "main.e7e53003.css.map": "/nikita/static/css/main.e7e53003.css.map",
+    "main.dc2c2120.js.map": "/nikita/static/js/main.dc2c2120.js.map",
+    "787.32d91862.chunk.js.map": "/nikita/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e53003.css",
+    "static/js/main.dc2c2120.js"
+  ]
+}
